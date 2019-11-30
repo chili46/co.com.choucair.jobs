@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Choucair module jobs","Search","SUCCESS","2019-11-29T17:22:19.736-05:00[America/Bogota]","0.0","24.01"
+"Choucair module jobs","Search word out of context","FAILURE","2019-11-29T17:22:43.751-05:00[America/Bogota]","0.0","21.13"
+"Choucair module jobs","Sign up for work","SUCCESS","2019-11-29T17:23:04.899-05:00[America/Bogota]","0.0","29.75"
+"Choucair module jobs","Text","PENDING","2019-11-29T17:23:34.656-05:00[America/Bogota]","0.0","0.01"
+"Choucair module jobs","Redirection (Link)","PENDING","2019-11-29T17:23:34.671-05:00[America/Bogota]","0.0","0.01"
